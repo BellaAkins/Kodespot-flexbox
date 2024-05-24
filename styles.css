@@ -144,7 +144,7 @@ body .container .third-box .image-box img:hover {
     display: grid;
   }
   body .container .first-box .about-me-box {
-    width: 400px;
+    width: 300px;
     padding: 5px 7px;
   }
   body .container .first-box .about-me-box p {
