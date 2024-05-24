@@ -153,11 +153,14 @@ body .container .third-box .image-box img:hover {
   body .container .second-box .first-row {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
+    margin: 0 auto;
   }
   body .container .second-box .first-row .work-details {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
     margin: 0 auto;
   }
   body .container .third-box {
     display: grid;
   }
-} /*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
